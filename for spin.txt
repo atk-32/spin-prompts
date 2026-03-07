@@ -135,3 +135,7 @@ Spinner gives a drink for each private avatar at game
 Drink if you have been called by your vrchat name irl
 Spinner gives 1 for each decade alive (round down)
 Drink if your hair color matches yours irl
+Choose a player and roll off! Loser drinks difference
+roll a d6, give that many
+roll a dice, drink that many
+Name a discord you are in, anyone in it drinks (you too)
