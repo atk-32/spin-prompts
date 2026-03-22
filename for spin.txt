@@ -139,3 +139,6 @@ Choose a player and roll off! Loser drinks difference
 roll a d6, give that many
 roll a dice, drink that many
 Name a discord you are in, anyone in it drinks (you too)
+Drink if you own a VRC group
+Spinner gives spin count divided by 10 (round up)
+Spinner drinks amount of worlds they joined today
