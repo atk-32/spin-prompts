@@ -143,3 +143,5 @@ Drink if you own a VRC group
 Spinner gives spin count divided by 10 (round up)
 Spinner drinks amount of worlds they joined today
 Drink if you have never gaslit someone
+Very poor avatars drink
+Give 5 if avatar is not very poor
